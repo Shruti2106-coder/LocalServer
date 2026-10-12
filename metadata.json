@@ -1,0 +1,6 @@
+{
+  "name": "LocalServe – Local Service Booking Platform",
+  "description": "Local help. Made simple. Connect with trusted local service providers for home repairs, cleaning, tutoring, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
